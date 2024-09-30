@@ -4,6 +4,11 @@
 
 Tripo_HOU is a custom Houdini node that integrates Tripo3D's AI-powered 3D model generation capabilities directly into your Houdini workflow. This node allows you to generate 3D models from text prompts or images using Tripo3D's API.
 
+## Video Demonstration
+
+Check out this video demonstration of Tripo_HOU in action:
+[Watch on YouTube](https://www.youtube.com/watch?v=F9vX2ulNKSs)
+
 ## Features
 
 - Generate 3D models from text prompts (Text to Model)

@@ -66,7 +66,7 @@ Tripo_HOU is a custom Houdini node that integrates Tripo3D's AI-powered 3D model
 
 ## Support
 
-For additional help or to report issues, please open an issue on the [GitHub repository](https://github.com/Dragoy/Tripo-HOU/issues).
+For additional help or to report issues, please open an issue on the [GitHub repository](https://github.com/Dragoy/Tripo_HOU/issues).
 
 ## License
 
